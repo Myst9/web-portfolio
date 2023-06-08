@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+	font-family: 'Dosis', sans-serif!important;
+}
+
+.bg-navbar{
+	background-color: #27374D;
+}
+
+.bg-content{
+	background-color: #DDE6ED;
+}
+
+.bg-contact{
+	background-color: #526D82;
+}
+
+.btn-submit {
+  color: #fff;
+  background-color: #27374D;
+  border-color: #DDE6ED;
+}
+
+.btn-submit:hover {
+  color: rgb(0, 0, 0);
+  background-color: #DDE6ED;
+  border-color: #27374D;
+}
