@@ -11,6 +11,11 @@ body{
 	font-family: 'Dosis', sans-serif!important;
 }
 
+#logo{
+	width: 30px;
+	height: 30px;
+}
+
 .bg-navbar{
 	background-color: #27374D;
 }
